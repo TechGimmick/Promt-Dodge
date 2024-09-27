@@ -1,1 +1,1 @@
-# Promt-Dodge
+This Game is related to a car which dodges the obstacles , but if it touches any one obstacle and questions will be displayed , If the user gets 3 correct answer in a row then he will be able to move further otherwise its game over 
